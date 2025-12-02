@@ -1,4 +1,4 @@
-[![MasterHead](images/Banner.jpeg)](https://vivekutture.github.io)
+[![MasterHead](images/Banner.jpeg)](https://vivekjutture.github.io)
 <h1 align="center">Hi <img align="center" src=images/wave.gif height="40" width="40">, I'm Vivek Utture</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3000&color=00BBFF&center=true&vCenter=true&width=1000&lines=Developer;Coder;YouTuber)](https://git.io/typing-svg)
@@ -7,16 +7,15 @@
 <h3 align="center">👇 Visit At 👇</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/vivekutture" target="none"><img align="center" src=icons/linkedin.svg alt="vivekutture" height="40" width="40" /></a>&nbsp;
-<a href="https://instagram.com/vivek.utture"><img align="center" src=icons/instagram.svg alt="vivek.utture" height="40" width="40" /></a>&nbsp;
-<a href="https://www.hackerrank.com/vivekutture"><img align="center" src=icons/hackerrank.svg alt="vivekutture" height="60" width="50" /></a>&nbsp;
- <a href="https://www.leetcode.com/vivekutture"><img align="center" src=icons/leetcode.svg alt="vivekutture" height="40" width="40" /></a>&nbsp;
-<a href="https://www.github.com/vivekutture"><img align="center" src=icons/github.svg alt="vivekutture" height="40" width="40"/></a>&nbsp;
-<a href="https://yt.openinapp.co/mysterioustechs" target="none"><img align="center" src=icons/youtube.svg alt="vivekutture" height="40" width="40"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/vivekjutture" target="none"><img align="center" src=icons/linkedin.svg alt="vivekjutture" height="40" width="40" /></a>&nbsp;
+<a href="https://www.hackerrank.com/vivekjutture"><img align="center" src=icons/hackerrank.svg alt="vivekjutture" height="60" width="50" /></a>&nbsp;
+<a href="https://www.leetcode.com/u/vivekjutture"><img align="center" src=icons/leetcode.svg alt="vivekjutture" height="40" width="40" /></a>&nbsp;
+<a href="https://www.github.com/vivekjutture"><img align="center" src=icons/github.svg alt="vivekjutture" height="40" width="40"/></a>&nbsp;
+<a href="https://yt.openinapp.co/mysterioustechs" target="none"><img align="center" src=icons/youtube.svg alt="vivekjutture" height="40" width="40"/></a>&nbsp;
 <a href="mailto:uttureviveks@gmail.com?subject=Hello%20Vivek,"><img align="center" src=icons/gmail.svg height="40" width="40"/></a>&nbsp;
 </p>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vivekutture&label=Profile%20Views&color=0e75b6&style=flat" alt="vivekutture" height="35" width="175"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vivekjutture&label=Profile%20Views&color=0e75b6&style=flat" alt="vivekjutture" height="35" width="175"/></p>
 <br>
 <p>
  
@@ -26,10 +25,6 @@
 
 - 💬 Ask me about **JAVA, C++, Linux, C and Python**
 
-- My Holopin Profile 👇👇👇 <br>
-
-[![@vivekutture's Holopin board](https://holopin.me/vivekutture)](https://holopin.io/@vivekutture)
-
 - ⚡ Fun Fact 😁 **Though I said I'm MYSTERIOUS 🕵️‍♂️, but you know my NAME 😅😂**
  </p>
 
@@ -38,8 +33,7 @@
 
 ## 📧 GET IN TOUCH
 
-<a href="mailto:uttureviveks@gmail.com?subject=Hello%20Vivek,"><img align="center" src=icons/gmail.svg height="30" width="30"/></a>&nbsp; &nbsp;<a href="https://linkedin.com/in/vivekutture" target="none"><img align="center" src=icons/linkedin.svg alt="vivekutture" height="30" width="30" /></a>&nbsp;&nbsp;
- <a href="https://instagram.com/vivek.utture"><img align="center" src=icons/instagram.svg alt="vivek.utture" height="30" width="30" /></a>&nbsp;
+<a href="mailto:uttureviveks@gmail.com?subject=Hello%20Vivek,"><img align="center" src=icons/gmail.svg height="30" width="30"/></a>&nbsp; &nbsp;<a href="https://www.linkedin.com/in/vivekjutture" target="none"><img align="center" src=icons/linkedin.svg alt="vivekjutture" height="30" width="30" /></a>&nbsp;&nbsp;
 </p>
 <br>
 
@@ -59,15 +53,11 @@
 </p>
 <br>
 
-## 🤝 SUPPORT
-<p><a href="https://www.buymeacoffee.com/vivekutture"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vivekutture" /></a></p><br><br>
-<br>
-
 ## 🔥 MY GITHUB STATS
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekutture&&show_icons=true&count_private=true&theme=radical"/> &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekutture&show_icons=true&count_private=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekjutture&&show_icons=true&count_private=true&theme=radical"/> &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekjutture&show_icons=true&count_private=true&theme=radical"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekutture&show_icons=true&locale=en&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekjutture&show_icons=true&locale=en&layout=compact&theme=radical"/>
 </p>
