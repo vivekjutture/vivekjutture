@@ -1,4 +1,4 @@
-[![MasterHead](images/Banner.jpeg)](https://vivekjutture.github.io)
+![MasterHead](images/Banner.jpeg)
 <h1 align="center">Hi <img align="center" src=images/wave.gif height="40" width="40">, I'm Vivek Utture</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3000&color=00BBFF&center=true&vCenter=true&width=1000&lines=Developer;Coder;YouTuber)](https://git.io/typing-svg)
@@ -52,12 +52,3 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src=icons/python.svg alt="python" width="40" height="40"/> </a> &nbsp;
 </p>
 <br>
-
-## 🔥 MY GITHUB STATS
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekjutture&&show_icons=true&count_private=true&theme=radical"/> &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekjutture&show_icons=true&count_private=true&theme=radical"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekjutture&show_icons=true&locale=en&layout=compact&theme=radical"/>
-</p>
