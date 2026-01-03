@@ -19,36 +19,8 @@
 <br>
 <p>
  
-## 🤵 ABOUT
-
-- 😎 I’m currently learning **Flutter & Android**
-
-- 💬 Ask me about **JAVA, C++, Linux, C and Python**
-
-- ⚡ Fun Fact 😁 **Though I said I'm MYSTERIOUS 🕵️‍♂️, but you know my NAME 😅😂**
- </p>
-
-<br>
-<p>
-
 ## 📧 GET IN TOUCH
 
 <a href="mailto:uttureviveks@gmail.com?subject=Hello%20Vivek,"><img align="center" src=icons/gmail.svg height="30" width="30"/></a>&nbsp; &nbsp;<a href="https://www.linkedin.com/in/vivekjutture" target="none"><img align="center" src=icons/linkedin.svg alt="vivekjutture" height="30" width="30" /></a>&nbsp;&nbsp;
-</p>
-<br>
-
-## 🚀 LANGUAGES & TOOLS
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer" title="Android"> <img src=icons/android.svg alt="android" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C"> <img src=icons/c.svg alt="c" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++"> <img src=icons/c++.svg alt="cplusplus" width="40" height="40"/> </a> &nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase"> <img src=icons/firebase.svg alt="firebase" width="40" height="40"/> </a> &nbsp;
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer" title="Flutter"> <img src=icons/flutter.svg alt="flutter" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java"> <img src=icons/java.svg alt="java" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux"> <img src=icons/linux.svg alt="linux" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"> <img src=icons/mysql.svg alt="mysql" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB"> <img src=icons/mongodb.svg alt="MongoDB" width="100" height="40"/> </a> &nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL"> <img src=icons/postgresql.svg alt="postgresql" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src=icons/python.svg alt="python" width="40" height="40"/> </a> &nbsp;
 </p>
 <br>
